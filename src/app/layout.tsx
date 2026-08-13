@@ -13,12 +13,12 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Kanishk Rawal — Senior Creative Developer Portfolio",
+  title: "Kanishk Rawal —  Full Stack Developer Portfolio",
   description: "High-performance scrollytelling personal portfolio website featuring smooth canvas animations, interactive 3D elements, and modern frontend architecture.",
   keywords: ["Creative Developer", "Frontend Engineer", "Next.js 14", "Scrollytelling", "Framer Motion", "WebGL", "Canvas"],
   authors: [{ name: "Kanishk Rawal" }],
   openGraph: {
-    title: "Kanishk Rawal — Senior Creative Developer",
+    title: "Kanishk Rawal — Full Stack Developer",
     description: "High-performance scrollytelling personal portfolio website featuring smooth canvas animations.",
     type: "website",
   },
