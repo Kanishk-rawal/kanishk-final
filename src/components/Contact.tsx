@@ -131,7 +131,7 @@ export const Contact: React.FC = () => {
               </a>
 
               <a
-                href="https://github.com"
+                href="https://github.com/Kanishk-rawal"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 px-5 py-2.5 rounded-full glass-card text-xs font-mono text-zinc-300 hover:text-white hover:border-sky-500/40 transition-all"

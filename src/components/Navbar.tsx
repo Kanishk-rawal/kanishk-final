@@ -34,7 +34,7 @@ export const Navbar: React.FC = () => {
           <span className="text-sm font-bold text-white tracking-tight group-hover:text-sky-400 transition-colors">
             Kanishk Rawal
           </span>
-          <span className="text-[10px] font-mono text-zinc-400">Creative Developer</span>
+          <span className="text-[10px] font-mono text-zinc-400">Full Stack Developer</span>
         </div>
       </a>
 
